@@ -1,5 +1,5 @@
 # mod6hw
-cpsc-5330 module 5 homework<br>
+cpsc-5330 module 6 homework<br>
 A currency conversion application built in the MVC structure demonstrating the use of Segue between ViewControllers and User Input Validation
 
 iPhone 16 Pro (Portrait)
